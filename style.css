@@ -379,9 +379,9 @@ footer{
         margin-top: 0%;
     }
    
-/*     .sticky{
-        margin-top: auto;
-    } */
+.sticky{
+        position: relative;
+    }
   
     .experience img{
         height: 20vh;
