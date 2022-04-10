@@ -11,4 +11,4 @@ function scrollbg() {
   }
   // console.log(scrollvalue);
 }
-window.addEventListener('scroll', scrollbg)
+window.addEventListener('scroll', scrollbg);
